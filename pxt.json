@@ -1,5 +1,6 @@
 {
     "name": "the adventure of sticky",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
